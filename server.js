@@ -14,7 +14,7 @@ app.get('/usdt-dzd', async (req, res) => {
         page: 1,
         payTypes: [],
         publisherType: null,
-        rows: 1,
+        rows: 2,
         tradeType: 'SELL'
       },
       {
